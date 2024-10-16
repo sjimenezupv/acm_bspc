@@ -2,7 +2,7 @@
 
 ## Arrhythmogenic Cardiomyopathy Detection in the ECG
 
-This repository contains the scripts and functions used for the detection of *Arrhythmogenic Cardiomyopathy* (ACM) in electrocardiograms (ECG), as presented in our research work.
+This repository contains the database, results, scripts and functions used for the detection of *Arrhythmogenic Cardiomyopathy* (ACM) in electrocardiograms (ECG), as presented in our research work.
 
 The work is published in:
 
@@ -14,8 +14,7 @@ This repository contains the MATLAB scripts and functions used in the above stud
 
 
 ## Accessing the Data
-The full database used in the study is not included in this repository. To access the complete dataset, please contact the authors.
-
+The complete database utilized in this study is available in the ./data folder of this repository. Any use of this database should reference the associated published paper.
 
 
 
