@@ -6,7 +6,7 @@ This repository contains the database, results, scripts and functions used for t
 
 The work is published in:
 
-Jiménez-Serrano S, Sanz-Sánchez J, Vives-Gilabert Y, Millet J, Zorio E, Castells F (2024). *New ECG biomarkers and sex-stratified models for the detection of Arrhythmogenic Cardiomyopathy with left ventricular involvement*. *Biomedical Signal Processing and Control*. (In Press). DOI: 10.2139/ssrn.4824608.
+Jiménez-Serrano S, Sanz-Sánchez J, Vives-Gilabert Y, Millet J, Zorio E, Castells F (2022). *New ECG biomarkers and sex-stratified models for the detection of Arrhythmogenic Cardiomyopathy with left ventricular involvement*. *Biomedical Signal Processing and Control, 101:107224*. DOI: 10.1016/j.bspc.2024.107224. https://www.sciencedirect.com/science/article/pii/S1746809424012825
 
 
 ## Overview
